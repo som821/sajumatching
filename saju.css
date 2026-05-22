@@ -356,9 +356,9 @@ footer p {
 
   .sec-label { font-size: 20px; margin-bottom: 32px; }
   .how { padding: 64px 0; }
-  .how li strong { font-size: 22px; }
-  .how li p { font-size: 22px; line-height: 1.9; }
-  .num { width: 38px; height: 38px; font-size: 14px; }
+  .how li strong { font-size: 16px; }
+  .how li p { font-size: 15px; line-height: 1.85; }
+  .num { width: 28px; height: 28px; font-size: 13px; }
   .how-content { padding: 4px 0 44px; }
 
   .blind-sec { padding: 64px 0; }

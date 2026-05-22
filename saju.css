@@ -167,7 +167,7 @@ h1 {
 
 .sub {
   margin-top: 18px;
-  font-size: 15px;
+  font-size: 20px;
   color: var(--text3);
   font-weight: 300;
   letter-spacing: 0.06em;
@@ -180,7 +180,7 @@ h1 {
 }
 
 .sec-label {
-  font-size: 15px;
+  font-size: 20px;
   letter-spacing: 0.2em;
   color: var(--gold);
   font-weight: 300;
@@ -231,14 +231,14 @@ h1 {
 .how li:last-child .how-content { padding-bottom: 0; }
 .how li strong {
   display: block;
-  font-size: 15px;
+  font-size: 20px;
   font-weight: 400;
   color: var(--text);
   margin-bottom: 6px;
   font-family: var(--serif);
 }
 .how li p {
-  font-size: 15px;
+  font-size: 20px;
   color: var(--text2);
   font-weight: 300;
   line-height: 1.8;
@@ -305,7 +305,7 @@ h1 {
 }
 h2 {
   font-family: var(--serif);
-  font-size: 26px;
+  font-size: 20px;
   font-weight: 600;
   line-height: 1.6;
   margin-bottom: 12px;
@@ -354,10 +354,10 @@ footer p {
   .cta { font-size: 17px; padding: 18px 0; width: 100%; text-align: center; display: block; }
   .sub { font-size: 14px; letter-spacing: 0.03em; }
 
-  .sec-label { font-size: 13px; margin-bottom: 32px; }
+  .sec-label { font-size: 20px; margin-bottom: 32px; }
   .how { padding: 64px 0; }
-  .how li strong { font-size: 18px; }
-  .how li p { font-size: 16px; line-height: 1.9; }
+  .how li strong { font-size: 22px; }
+  .how li p { font-size: 22px; line-height: 1.9; }
   .num { width: 38px; height: 38px; font-size: 14px; }
   .how-content { padding: 4px 0 44px; }
 
